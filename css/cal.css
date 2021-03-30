@@ -1,0 +1,23 @@
+div[class|="col-md"]{
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+}
+.row div:first-child{
+	border-left: none;
+}
+
+.kojo{
+	background-color: gray;
+	color: white;
+	text-align: end;
+}
+.naa{
+	background-color: orange;
+	color: white;
+	text-align: center;
+}
+.dj{
+	background-color: #d2caca;
+	color: black;
+	text-align: center;
+}
